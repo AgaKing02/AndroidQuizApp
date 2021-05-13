@@ -1,0 +1,14 @@
+[
+  {
+    "Question" : "Australia is wider than the moon?",
+    "OptionA":"True",
+    "OptionB":"False",
+    "Answer":0
+  },
+  {
+    "Question" : "There are five different blood groups?",
+    "OptionA":"True",
+    "OptionB":"False",
+    "Answer":1
+  }
+]
